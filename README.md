@@ -1,4 +1,7 @@
-# test coverage for  [node-sass-middleware (v0.11.0)](https://github.com/sass/node-sass-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-node-sass-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-sass-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-sass-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-node-sass-middleware)
+# npmtest-node-sass-middleware
+
+#### basic test coverage for  [node-sass-middleware (v0.11.0)](https://github.com/sass/node-sass-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-node-sass-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-sass-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-sass-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-node-sass-middleware)
+
 #### Connect middleware for node-sass
 
 [![NPM](https://nodei.co/npm/node-sass-middleware.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-sass-middleware)
